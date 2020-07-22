@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for a nature tourism company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinho107/Natours-clone.git"
+  },
+  "author": "Marcus Dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinho107/Natours-clone/issues"
+  },
+  "homepage": "https://github.com/kinho107/Natours-clone#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
